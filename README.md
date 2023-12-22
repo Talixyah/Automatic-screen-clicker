@@ -39,3 +39,5 @@ Place the deneme.png file in the C:\ directory.
 Use PyInstaller to convert the .py file to an .exe file.
 
 Start using the program by running the generated .exe file.
+
+Written by Hilmi Uysaloğlu.
