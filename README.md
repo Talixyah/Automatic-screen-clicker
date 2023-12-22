@@ -40,4 +40,4 @@ Use PyInstaller to convert the .py file to an .exe file.
 
 Start using the program by running the generated .exe file.
 
-Written by Hilmi Uysaloğlu.
+Written and developed by Hilmi Uysaloğlu.
